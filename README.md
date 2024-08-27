@@ -1,0 +1,1 @@
+# Pacote_assistente_voz.py
